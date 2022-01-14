@@ -1,0 +1,5 @@
+name: CISC124_Winter_2022
+channels:
+  - conda-forge
+dependencies:
+  - beakerx
