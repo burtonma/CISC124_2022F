@@ -3,7 +3,7 @@ channels:
   - beakerx
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.7
   - "jupyter_client<7"
   - beakerx_kernel_java
   - beakerx_kernel_autotranslation
