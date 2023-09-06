@@ -1,4 +1,4 @@
-# CISC124-Fall-2022
+# CISC124-current
 Course resources for CISC124 at Queen's University.
 
 ## Jupyter notebooks
